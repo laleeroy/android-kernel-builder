@@ -12,15 +12,15 @@ config = {
 
 		# type: str
 		# Build user name, will set KBUILD_BUILD_USER
-		"kbuild_build_user": "SebaUbuntu",
+		"kbuild_build_user": "leeroy",
 
 		# type: str
 		# Build host name, will set KBUILD_BUILD_HOST
-		"kbuild_build_host": "Seba-PC",
+		"kbuild_build_host": "jenkins",
 
 		# type: str
 		# Common name of the kernel
-		"kernel_name": "fratm",
+		"kernel_name": "Eut",
 
 		# type: str
 		# Common version of the kernels
